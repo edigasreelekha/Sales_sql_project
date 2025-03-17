@@ -102,7 +102,7 @@ Contributions are welcome! If you have any improvements, new queries, or suggest
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/edigasreelekha/License/blob/main/README.md).
 
 
 ## Author 
