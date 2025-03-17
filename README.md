@@ -36,7 +36,7 @@ The sales data is stored in a table named `sales` with the following schema:
 
 1. Clone the repository to your local machine:
 
-    - git clone [repository URL]
+    - git clone [repository URL](https://github.com/edigasreelekha/Sales_sql_project/tree/main)
 
    
 - Create a database and import the sales table schema. You can use the following SQL script to create the table:
